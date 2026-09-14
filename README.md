@@ -10,7 +10,7 @@ This is the public, static website for FishMate's store-policy links:
 
 ## Before publishing
 
-Search all files for `YOUR_SUPPORT_EMAIL` and replace it with the real support email address. Update the effective date in `privacy.html` and `terms.html` when publishing.
+Search all files for `sict.etr@gmail.com` and replace it with the real support email address. Update the effective date in `privacy.html` and `terms.html` when publishing.
 
 ## Publish with GitHub Pages
 
