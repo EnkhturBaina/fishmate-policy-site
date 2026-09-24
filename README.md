@@ -1,6 +1,6 @@
-# TULUU policy site
+# DEGEE policy site
 
-This is the public, static website for TULUU's store-policy links:
+This is the public, static website for DEGEE's store-policy links:
 
 - `/` — overview
 - `/privacy.html` — Privacy Policy
@@ -24,4 +24,4 @@ Search all files for `sict.etr@gmail.com` and replace it with the real support e
    - `https://YOUR_GITHUB_USERNAME.github.io/fishmate-policy-site/delete-account.html`
    - `https://YOUR_GITHUB_USERNAME.github.io/fishmate-policy-site/support.html`
 
-The repository intentionally contains only public policy content. Do not put TULUU app source code, Supabase secrets, or private documents here.
+The repository intentionally contains only public policy content. Do not put DEGEE app source code, Supabase secrets, or private documents here.
