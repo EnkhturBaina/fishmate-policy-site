@@ -1,5 +1,16 @@
 # DEGEE / PC HUB policy site
 
+## Сэлбэг — 2026-11-18
+
+Сэлбэгийн хуудсууд `/selbeg/` дотор тусдаа. Нийтэд харуулах үйлчилгээ эрхлэгчийн нэр **Сэлбэг**, тусламжийн имэйл **selbegapp@gmail.com**. DEGEE болон PC HUB хуудсууд өөрчлөгдөөгүй.
+
+- https://enkhturbaina.github.io/fishmate-policy-site/selbeg/privacy.html
+- https://enkhturbaina.github.io/fishmate-policy-site/selbeg/terms.html
+- https://enkhturbaina.github.io/fishmate-policy-site/selbeg/delete-account.html
+- https://enkhturbaina.github.io/fishmate-policy-site/selbeg/support.html
+
+Сэлбэгийн апп/серверийн эх код `E:/Projects/selbeg-app` дотор. Устгал нь өөрийн Supabase Auth-ийн дахин нууц үг шалгалт, auth.users BEFORE DELETE trigger, cascade, хувийн R2 prefix cleanup queue ашиглана. Сүүлийн идэвхтэй админ устахгүй. Статик хуудсанд server credential, token, нэвтрэх form байхгүй; аппгүй үеийн хүсэлт нь имэйлээр, эзэмшлийг тусад нь баталгаажуулна. Кэш/нөөц болон өөр төхөөрөмжийн local өгөгдөл шууд устдаг гэсэн баталгаа өгөөгүй.
+
 This is the public, static website for DEGEE's store-policy links:
 
 - `/` — overview

@@ -1,0 +1,4 @@
+@import url("../styles.css");
+:root{--blue:#c34e29;--pale:#fff1e9;--ink:#142f32;--muted:#58676b;--line:#dce2df;color-scheme:light dark}
+body{background:#f6f5f1}.brand{display:inline-flex;align-items:center;gap:12px;color:var(--ink)}.brand img{border-radius:15px}.hero{margin-top:42px}.policy-nav{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}.policy-nav a{color:var(--ink);padding:7px 12px;border:1px solid var(--line);border-radius:20px;text-decoration:none}.card{min-height:160px}.page h2{font-size:1.22rem;line-height:1.4}a{color:var(--blue)}.updated{font-size:.9rem;color:var(--muted)}.page p,.page li{max-width:72ch}.back{margin-bottom:26px}.notice{color:var(--ink)}
+@media(prefers-color-scheme:dark){:root{--ink:#eef4ef;--muted:#bac6c2;--line:#40524e;--pale:#293e36;--blue:#ff9c72}body{background:#132721}.card{background:#1e342d}.button{background:#c34e29;color:white}}
